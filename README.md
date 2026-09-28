@@ -1,8 +1,8 @@
- Hi there, I'm Sara Ouguiz 👋
+### Hi there, I'm Sara Ouguiz 👋
 
 🚀 Currently learning and improving my skills in software development
 
- 🛠️ Skills & Technologies:
+### 🛠️ Skills & Technologies:
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -12,12 +12,10 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
- 📈 GitHub Stats:
-<p>
-  📈 GitHub Stats:
+### 📈 GitHub Stats:
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=saraouguiz&show_icons=true&theme=radical" alt="Sara's GitHub Stats" />
 </p>
 
-💼 Projects:
+### 💼 Projects:
 - Developing personal projects to apply and strengthen my programming skills
