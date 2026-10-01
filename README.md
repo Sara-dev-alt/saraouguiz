@@ -13,4 +13,4 @@
 </p>
 
 ### 💼 Projects:
-- Developing personal projects to apply and strengthen my programming skills
+ Developing personal projects to apply and strengthen my programming skills
