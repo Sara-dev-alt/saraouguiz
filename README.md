@@ -12,10 +12,5 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### 📈 GitHub Stats:
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=saraouguiz&show_icons=true&theme=radical" alt="Sara's GitHub Stats" />
-</p>
-
 ### 💼 Projects:
 - Developing personal projects to apply and strengthen my programming skills
